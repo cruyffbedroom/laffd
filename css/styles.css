@@ -1,14 +1,25 @@
 body {
-    background-color: #F1EAFF;
-    color: black;
+    background-color: #3B3654;
+    /* background-color: #F1EAFF; */
+    color: gainsboro;
 }
 
 #navbar {
     background-color: #C3ACD0;
+    /* background-color: #C3ACD0; */
 }
 
 .container-fluid {
     background-color: #C3ACD0;
+}
+
+.text-body-emphasis {
+    --bs-text-opacity: 1;
+    color: var(--bs-emphasis-colo)!important;
+}
+
+.lead {
+    color: gainsboro;
 }
 
 .navbar {
@@ -24,6 +35,8 @@ body {
 }
 
 /* ALTERNATIVE COLOR #3b3554 #C3ACD0 #F3F8FF and #E5BEEC #D3AAB7 243, 248, 255 - 195,172,208*/
+
+/* #3B3654 #d3aab7 */
 
 .btn {
 
@@ -55,17 +68,10 @@ body {
     color: black;
 }
 
-.carousel {
-    width:640px;
-    height:360px;
-    margin: 0 auto;
-}
+/* a:link {
+    color: #F1EAFF;
+} */
 
-.carousel-inner img {
-    margin: auto;
-}
-
-.carousel-item {
-    max-width: 100%;
-    height: auto;
+.card {
+    background-color: #F1EAFF;
 }
