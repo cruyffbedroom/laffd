@@ -81,6 +81,13 @@ li {
     color: #F1EAFF;
 } */
 
+.film-link:link {
+    color: gainsboro;
+}
+
+.film-link:visited {
+    color: #d3aab7;
+}
 .card {
     background-color: #F1EAFF;
 }
