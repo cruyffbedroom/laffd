@@ -1,0 +1,71 @@
+body {
+    background-color: #F1EAFF;
+    color: black;
+}
+
+#navbar {
+    background-color: #C3ACD0;
+}
+
+.container-fluid {
+    background-color: #C3ACD0;
+}
+
+.navbar {
+    --bs-navbar-padding-y: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.border-bottom {
+    --bs-border-width: 0;
+    --bs-border-style: none;
+    --bs-border-color: transparent;
+}
+
+/* ALTERNATIVE COLOR #3b3554 #C3ACD0 #F3F8FF and #E5BEEC #D3AAB7 243, 248, 255 - 195,172,208*/
+
+.btn {
+
+    background-color: #C3ACD0;
+    color: black;
+}
+
+.bg-body-tertiary {
+    --bs-tertiary-bg-rgb: #F1EAFF;
+}
+
+.img {
+    min-width: 600px;
+    max-width: 100%;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.overlay-text {
+    padding-right: 0;
+    padding-left: 0;
+    color: black;
+}
+
+.carousel {
+    width:640px;
+    height:360px;
+    margin: 0 auto;
+}
+
+.carousel-inner img {
+    margin: auto;
+}
+
+.carousel-item {
+    max-width: 100%;
+    height: auto;
+}
