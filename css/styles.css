@@ -18,7 +18,16 @@ body {
     color: var(--bs-emphasis-colo)!important;
 }
 
+.text-body-secondary {
+    --bs-text-opacity: 1;
+    color: var(--bs-secondary-colo)!important;
+}
+
 .lead {
+    color: gainsboro;
+}
+
+li {
     color: gainsboro;
 }
 
