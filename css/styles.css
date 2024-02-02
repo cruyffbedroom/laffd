@@ -52,6 +52,10 @@ li {
     background-color: #C3ACD0;
     color: black;
 }
+.btn-floating {
+    background-color: #3B3654;
+    color: gainsboro;
+}
 
 .bg-body-tertiary {
     --bs-tertiary-bg-rgb: #F1EAFF;
