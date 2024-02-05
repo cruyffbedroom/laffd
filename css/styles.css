@@ -95,3 +95,11 @@ li {
 .card {
     background-color: #F1EAFF;
 }
+
+.schedule-link:link {
+    color: gainsboro;
+}
+
+.schedule-link:visited {
+    color: #d3aab7;
+}
