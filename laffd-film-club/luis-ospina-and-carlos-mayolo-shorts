@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=.9, maximum-scale=.9, user-scalable:no">
+    <title>Luis Ospina and Carlos Mayolo Shorts</title>
+    <link rel="icon" type="image/x-icon" href="../images/Trim-Favicon 01 Artboard 1.png" height = "100" width="100">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+
+<body>
+  <div class="container"></div>
+
+  <nav class="navbar navbar-expand-lg bg-body-tertiary" id="navbar">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../index.html">
+          <img src="../images/Trim_1706411991-trimmy-Header logo 01 Artboard 13.png" id="laffd-logo"alt="laffd logo" height="50" width="45">
+          <span class="overlay-text">Latin American Film Festival of Dallas</span>
+          </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
+            
+            <li class="nav-item">
+              <a class="nav-link" href="../about.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../2024-programming.html">2024 Programming</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../faq.html">FAQ</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../schedule.html">Schedule</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="../archives.html">Archives</a>
+              </li>
+
+                <li class="nav-item">
+                <a class="nav-link" href="../laffd-film-club.html">LAFFD Film Club</a>
+              </li>
+            <li class="nav-item">
+              <a class="nav-link" href=>Español</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+    <div class="container">
+
+      <div class="px-4 pt-4 text-center ">
+          <h1 class="display-4 fw-bold text-body-emphasis">Luis Ospina and Carlos Mayolo Shorts</h1>
+          <div class="col-xl-12 col-lg-6 mx-auto">
+            <p class="lead mb-4">Luis Ospina and Carlos Mayolo were among the most influential figures in Colombian cinema. In the 1970's they captured stories of their country and their friends and explored the boundaries between fiction and documentary cinema with a sense of humor, audacity, formal imagination and an enormous empathy for marginal people. We present a program of four of their shorts from the 1970's.</p>
+            
+          </div>
+          <div class="overflow-hidden" style="max-height: 100vh;">
+            <div class="container col-lg-12 col-md-12 col-sm-12 px-5">
+              <img src="../images/agarrando-pueblo.jpg" class="img-fluid rounded-3 mb-4" alt="image from about thirty" height="600" loading="lazy">
+            </div>
+          <div class="col-sm-12 justify-content-center d-grid gap-2 pt-3 pb-5">
+              <a href="https://www.spacydtx.com/list/laffd-film-club-presents-black-god-white-devil"><button type="button" class="btn btn-dark btn-lg px-4 gap-3">01/14 @ 7pm - Tickets</button></a>
+          
+          </div>
+            
+          </div>
+        </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">Listen, Look!</h5>
+              <p class="card-text">
+                Oiga vea! <br>
+                Colombia / 28 / 1971 / documentary <br>
+                in Spanish with English subtitles<br>
+                Direction: Luis Ospina, Carlos Mayolo <br>
+                Screenplay: Luis Ospina, Carlos Mayolo <br>
+                Cinematography: Carlos Mayolo  <br>
+                Editing: Luis Ospina <br>
+                Producers: Luis Ospina, Carlos Mayolo <br>
+                </p>
+            </div>
+
+            <div class="card-body">
+                <h5 class="card-title">Cali on Film</h5>
+                <p class="card-text">
+                  Cali de película <br>
+                  Colombia / 14 / 1972 / documentary <br>
+                  in Spanish with English subtitles<br>
+                  Direction: Luis Ospina, Carlos Mayolo <br>
+                  Screenplay: Luis Ospina, Carlos Mayolo <br>
+                  Cinematography: Carlos Mayolo  <br>
+                  Editing: Luis Ospina <br>
+                  Producers: Luis Ospina, Carlos Mayolo <br>
+                  </p>
+              </div>
+
+              <div class="card-body">
+                <h5 class="card-title">Asunción</h5>
+                <p class="card-text">
+                  Colombia / 15 / 1975 / fiction <br>
+                  in Spanish with English subtitles<br>
+                  Direction: Luis Ospina, Carlos Mayolo <br>
+                  Screenplay: Luis Ospina, Carlos Mayolo <br>
+                  Editing: Luis Ospina <br>
+                  Producers: Luis Ospina, Carlos Mayolo <br>
+                  Cast: Marina Restrepo, Monica Silva, Vicenta Carabali, Genaro de Gamboa, Pablo Martinez<br>
+                  </p>
+              </div>
+
+              <div class="card-body">
+                <h5 class="card-title">The Vampires of Poverty</h5>
+                <p class="card-text">
+                  Colombia / 29 / 1977 / fiction <br>
+                  in Spanish with English subtitles<br>
+                  Direction: Luis Ospina, Carlos Mayolo <br>
+                  Screenplay: Luis Ospina, Carlos Mayolo <br>
+                  Editing: Luis Ospina <br>
+                  Producers: Luis Ospina, Carlos Mayolo <br>
+                  Cast: Eduardo Carvajal, Carlos Mayolo, Luis Alfonso Londono, Ramiro Arbelaez<br>
+                  </p>
+              </div>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="card">
+            <div class="card-body">
+              <p class="card-text">
+                
+                Luis Ospina made the short documentary Listen, Look (1971) with his childhood friend Carlos Mayolo. The Pan American Games were being held in the city at that time, yet these young filmmakers did not gain accreditation. Instead of shooting the athletes, they filmed life in the streets around the stadium. The uncensored imagery of poverty, the fruits of the failure of the social system, contrasted sharply with the official, sanitized presentation of the event. With it, Ospina and Mayolo contributed to the cultural and social revival that took place in Cali in the 1970s. <br>
+
+                
+                Many Latin American filmmakers have come to realize that the easiest way to achieve a big break at foreign festivals is to film people living in squalid conditions and to affirm Western stereotypes about third-world countries. Ospina responded to the indecent exploitation of poverty both as a co-creator of a manifesto on so-called porn misery (Manifesto da Pornomiséria) and with his act of protest The Vampires of Poverty (1977). In a scathing mockumentary, Mayolo plays the role of a director who is so desperate to capture shocking footage from the slums that he doesn’t hesitate to stage it all just for the camera. Sharp criticism of capitalism and the hypocrisy of left-leaning artists not only earned both filmmakers great fame, but also resulted in animosity from their peers. However, their position as underground outcasts gave them independence. - dafilms</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      
+  </div>
+
+
+
+  <footer class="text-center py-3 my-4">
+    <!-- Grid container -->
+    <div class="container justify-content-center border-bottom">
+      <!-- Section: Social media -->
+      <section class="mb-1">
+        <!-- Instagram -->
+        <a class="btn btn-link btn-floating px-2 btn-lg text-body-secondary m-1" href="https://www.instagram.com/latamfilmdallas/" role="button" data-mdb-ripple-color="dark" ><i class="bi bi-instagram"></i></a>
+
+        <!-- Twitter -->
+        <a class="btn btn-link btn-floating px-2 btn-lg text-body-secondary m-1" href="https://www.twitter.com/latamfilmdallas/" role="button" data-mdb-ripple-color="dark"><i class="bi bi-twitter"></i></a>
+
+        <!-- Youtube -->
+        <a class="btn btn-link btn-floating px-2 btn-lg text-body-secondary m-1" href="https://www.youtube.com/@laffd/" role="button" data-mdb-ripple-color="dark"><i class="bi bi-youtube"></i></a>
+    </div>
+    <!-- Grid container -->
+
+    <p class="text-center text-body-secondary">laffdprogram@gmail.com</p>
+    <p class="text-center text-body-secondary">© 2024 LAFFD</p>
+  </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
